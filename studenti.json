@@ -1,0 +1,64 @@
+{
+    "cursanti": [
+        {
+            "nume": "Ionescu",
+            "prenume": "Anton",
+            "varsta": 22,
+            "hobby": [
+                "snowboard",
+                "matematica"
+            ],
+            "numar_tel": {
+                "cod_tara": "+40",
+                "nr": "756235896"
+            }
+        },
+        {
+            "nume": "Mazare",
+            "prenume": "Anastasia",
+            "varsta": 19,
+            "hobby": [
+                "Hardware",
+                "fizica"
+            ],
+            "numar_tel": {
+                "cod_tara": "+33",
+                "nr": "5689633356"
+            }
+        },
+        {
+            "nume": "Vasilescu",
+            "prenume": "Andrei",
+            "varsta": 21,
+            "hobby": [
+                "snowboard",
+                "matematica"
+            ],
+            "numar_tel": [
+                {
+                    "cod_tara": "+40",
+                    "nr": "756235896"
+                },
+                {
+                    "cod_tara": "+33",
+                    "nr": "5689633357"
+                }
+            ]
+        },
+        {
+            "nume": "Titulescu",
+            "prenume": "Bogdan",
+            "varsta": 25,
+            "hobby": [
+                "snowboard",
+                "matematica"
+            ],
+            "numar_tel": [
+                {
+                    "cod_tara": "+40",
+                    "nr": "756235896"
+                }
+            ]
+        }
+    ]
+}
